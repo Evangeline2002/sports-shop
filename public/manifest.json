@@ -1,0 +1,27 @@
+{
+  "name": "Tamil Nadu Sports Shop Mapping System",
+  "short_name": "TNSportsMap",
+  "description": "Google Maps & Directory for Tamil Nadu Sports Retailers",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0f19",
+  "theme_color": "#6366f1",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/color/96/sport.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://img.icons8.com/color/144/sport.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://img.icons8.com/color/512/sport.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

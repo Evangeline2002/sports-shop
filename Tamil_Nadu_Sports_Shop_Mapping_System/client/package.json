@@ -1,0 +1,42 @@
+{
+  "name": "tamil-nadu-sports-shop-mapping-system",
+  "version": "1.0.0",
+  "description": "A Google Maps based sports shop directory and mapping system for all 38 districts in Tamil Nadu.",
+  "main": "src/main.jsx",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "serve": "vite preview",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^6.0.0",
+    "axios": "^0.24.0",
+    "react-leaflet": "^3.2.0",
+    "leaflet": "^1.7.1",
+    "react-icons": "^4.2.0",
+    "framer-motion": "^4.1.0",
+    "recharts": "^2.1.0",
+    "firebase": "^9.0.0",
+    "sheetjs-style": "^0.18.5",
+    "tailwindcss": "^2.2.19"
+  },
+  "devDependencies": {
+    "vite": "^2.6.4",
+    "eslint": "^7.32.0",
+    "eslint-plugin-react": "^7.27.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^3.4.1"
+  },
+  "keywords": [
+    "react",
+    "google-maps",
+    "sports-shop",
+    "directory",
+    "mapping-system"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
